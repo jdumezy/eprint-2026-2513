@@ -1,0 +1,6 @@
+/target
+# Local copy of the paper, never committed.
+/temp
+
+# Benchmark outputs.
+/bench/results
